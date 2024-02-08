@@ -41,6 +41,8 @@ public class Sample {
 		 
         driver.getTitle();
         
+        driver.get(null);
+        
         
         
        
